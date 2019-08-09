@@ -41,7 +41,10 @@ Operations:
 
 Analysis and Design
 
-student use case 
+![Student use case](https://i.postimg.cc/vB5LtZS2/user.png)
+![Proffessor use case](https://i.postimg.cc/mrzShw3s/prof.png)
+![Student Request Flow](https://i.postimg.cc/5thSzCpF/stud-1.png)
+![Proffessor Request Flow](https://i.postimg.cc/MprDW4Q5/prof-2.png)
 
 
 ### How to Edit -
