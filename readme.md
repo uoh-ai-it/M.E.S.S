@@ -46,6 +46,13 @@ Analysis and Design
 ![Student Request Flow](https://i.postimg.cc/5thSzCpF/stud-1.png)
 ![Proffessor Request Flow](https://i.postimg.cc/MprDW4Q5/prof-2.png)
 
+Implementation : Technical stack
+
+
+Front End                : HTML5, CSS and Javascript
+Sever side Framework     : NodeJS  (As this framework is light and has huge community it ecomes easier to resolve issues when we are stuck with one)  (OR)  Django (python) / JSP (java server pages)
+
+
 
 ### How to Edit -
 ### Tutorial links-
